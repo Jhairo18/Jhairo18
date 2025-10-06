@@ -12,8 +12,6 @@
 
 ### 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhairo18&show_icons=true&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairo18&layout=compact&theme=tokyonight)
 
 ---
