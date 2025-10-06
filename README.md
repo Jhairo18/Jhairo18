@@ -27,19 +27,6 @@ Tengo experiencia en **automatización de procesos** y en el uso de **tecnologí
 
 ---
 
-## 📂 Proyectos Destacados  
-
-*(Próximamente agregarás tus proyectos aquí, pero te dejo el formato estándar para mantener la coherencia visual 👇)*  
-
-- **📊 Análisis Exploratorio de Ventas** – Predicciones y visualización con *Pandas, Seaborn y Scikit-learn*.  
-- **⭐ Modelamiento de un OLTP a Modelo Estrella** – Optimización de consultas y modelado DAX en *Power BI*.  
-- **🌐 Sistema IoT con AWS** – Transmisión de datos en tiempo real desde sensores a *DynamoDB* vía *IoT Core*.  
-
-🔗 [Ver más proyectos](https://goo.su/Nc63K)
-
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
